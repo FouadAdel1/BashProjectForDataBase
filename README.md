@@ -37,7 +37,7 @@ chmod +x DBfile
 
 #### Created by :
 
-Ahmed fayez <br>
-Fouad adel <br>
+Ahmed Fayez <br>
+Fouad Adel <br>
 
 ITI intake 43
